@@ -12,5 +12,7 @@ Este módulo para WHMCS permite cancelar faturas não pagas e seus pedidos relac
 ## Instalação
 
 1. Baixe ou clone o repositório para o diretório `modules/addons/` do seu WHMCS:
+
+   
    ```bash
-   git clone https://github.com/seu-repositorio/invoice-canceller.git modules/addons/InvoiceCanceller
+   git clone https://github.com/lucasfariasrj1/invoice-canceller.git
